@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("InterviewTasks.Antal.Shapes")]
+[assembly: AssemblyTitle("Test.InterviewTasks.Antal.Shapes")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("InterviewTasks.Antal.Shapes")]
+[assembly: AssemblyProduct("Test.InterviewTasks.Antal.Shapes")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d147804f-c3e4-47fc-a0f6-6422c7fd5ef8")]
+[assembly: Guid("84ed4fdb-0701-4173-b8eb-f8d26ba9c3f4")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -34,4 +34,3 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: InternalsVisibleTo("Test.InterviewTasks.Antal.Shapes")]
